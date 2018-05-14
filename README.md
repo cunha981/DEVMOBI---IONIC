@@ -1,1 +1,1 @@
-# USJT Ionic 3 Projects
+# USJT Ionic
