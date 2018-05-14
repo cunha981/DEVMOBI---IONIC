@@ -1,2 +1,1 @@
-# DEVMOBI---IONIC
-USJT 2018
+# USJT Ionic 3 Projects
